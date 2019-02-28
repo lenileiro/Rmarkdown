@@ -1,0 +1,6 @@
+[
+["index.html", "Authoring A Book with R Markdown Preface", " Authoring A Book with R Markdown Yihui Xie 2019-03-01 Preface In this book, we will introduce an interesting method. print(5 * 2) ## 10 "],
+["intro.html", "1 Intro 1.1 First Words", " 1 Intro This chapter is an overview of the methods that we propose to solve an important problem. 1.1 First Words This chapter is an overview of the methods that we propose to solve an important problem. "],
+["literature.html", "2 Literature", " 2 Literature Here is a review of existing methods. "],
+["final-words.html", "3 Final Words", " 3 Final Words We have finished a nice book. "]
+]

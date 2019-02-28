@@ -1,0 +1,18 @@
+--- 
+title: "Authoring A Book with R Markdown"
+author: "Yihui Xie"
+date: "`r Sys.Date()`"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::gitbook: default
+documentclass: book
+---
+# Intro
+
+This chapter is an overview of the methods that
+we propose to solve an **important problem**.
+
+## First Words
+
+This chapter is an overview of the methods that
+we propose to solve an **important problem**.
