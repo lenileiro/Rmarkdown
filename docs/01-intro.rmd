@@ -1,6 +1,9 @@
 --- 
-title: "Authoring A Book with R Markdown"
-author: "Yihui Xie"
+title: "An Awesome Book"
+author: "John Smith"
+description: "This book introduces the ABC theory, and ..."
+url: 'https\://bookdown.org/john/awesome/'
+github-repo: "lenileiro/politico"
 date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
 output:
@@ -11,6 +14,13 @@ documentclass: book
 
 This chapter is an overview of the methods that
 we propose to solve an **important problem**.
+
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13}\\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
+
+
 
 ## First Words
 

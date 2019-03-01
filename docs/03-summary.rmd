@@ -1,6 +1,9 @@
 --- 
-title: "Authoring A Book with R Markdown"
-author: "Yihui Xie"
+title: "An Awesome Book"
+author: "John Smith"
+description: "This book introduces the ABC theory, and ..."
+url: 'https\://bookdown.org/john/awesome/'
+github-repo: "lenileiro/politico"
 date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
 output:

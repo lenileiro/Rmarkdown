@@ -1,13 +1,16 @@
 --- 
-title: "Authoring A Book with R Markdown"
-author: "Yihui Xie"
+title: "An Awesome Book"
+author: "John Smith"
+description: "This book introduces the ABC theory, and ..."
+url: 'https\://bookdown.org/john/awesome/'
+github-repo: "lenileiro/politico"
 date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
-bibliography: "`r getwd()`/refs/ref.bib"
+bibliography: "`r getwd()`/references/collection.bib"
 biblio-style: "apalike"
 link-citations: true
 output:
-  bookdown::gitbook: default
+  bookdown::pdf_book: default
 documentclass: book
 
 ---
