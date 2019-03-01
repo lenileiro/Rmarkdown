@@ -3,17 +3,27 @@ title: "Authoring A Book with R Markdown"
 author: "Yihui Xie"
 date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
+bibliography: "`r getwd()`/refs/ref.bib"
+biblio-style: "apalike"
+link-citations: true
 output:
   bookdown::gitbook: default
 documentclass: book
+
 ---
 
-# Preface {-}
-
+# Index {-}
+@book
 In this book, we will introduce an interesting
 method.
+[@book]
+
+new author quote @R-stringr
+
 
 ```{python}
 print(5 * 2)
 
 ```
+
+## Reference
