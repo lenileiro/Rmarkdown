@@ -1,0 +1,6 @@
+[
+["index.html", "An Awesome Book Index 0.1 Reference", " An Awesome Book John Smith 2019-03-01 Index Xie (2018) In this book, we will introduce an interesting method. (Xie 2018) new author quote Wickham (2018) print(5 * 2) ## 10 0.1 Reference References "],
+["intro.html", "1 Intro 1.1 First Words", " 1 Intro This chapter is an overview of the methods that we propose to solve an important problem. \\[\\begin{array}{ccc} x_{11} &amp; x_{12} &amp; x_{13}\\\\ x_{21} &amp; x_{22} &amp; x_{23} \\end{array}\\] 1.1 First Words This chapter is an overview of the methods that we propose to solve an important problem. "],
+["literature.html", "2 Literature", " 2 Literature Here is a review of existing methods. "],
+["final-words.html", "3 Final Words 3.1 Reference", " 3 Final Words 3.1 Reference We have finished a nice book. "]
+]

@@ -10,7 +10,7 @@ bibliography: "`r getwd()`/references/collection.bib"
 biblio-style: "apalike"
 link-citations: true
 output:
-  bookdown::pdf_book: default
+  bookdown::gitbook: default
 documentclass: book
 
 ---
